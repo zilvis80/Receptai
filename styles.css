@@ -1,0 +1,70 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgba(225, 219, 219, 0.863);
+}
+.block {
+  width: 100%;
+  box-shadow: 5px 10px rgba(140, 131, 131, 0.45);
+}
+h1,
+h2,
+h3 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 700;
+  size: 16px;
+  line-height: 18.75px;
+}
+h1 {
+  padding-top: 30px;
+  padding-left: 30px;
+}
+h2 {
+  padding-top: 30px;
+  padding-left: 30px;
+}
+h3 {
+  padding-top: 30px;
+  padding-left: 30px;
+}
+
+/* font-family: 'Open Sans', sans-serif; 400/ 700*/
+.gut-header {
+  background-color: white;
+  box-sizing: border-box;
+  width: 600px;
+  height: 305px;
+  margin-top: 103px;
+  margin-left: 660px;
+}
+.gut-header .foto {
+  margin-top: 30px;
+  margin-left: 30px;
+  border: 1px;
+}
+.gut-header .foto img {
+  padding-right: 27px;
+}
+.canculat {
+  background-color: white;
+  box-sizing: border-box;
+  width: 600px;
+  height: 112px;
+  margin-top: 32px;
+  margin-left: 660px;
+}
+.recept {
+  background-color: white;
+  box-sizing: border-box;
+  width: 600px;
+  height: 159px;
+  margin-top: 32px;
+  margin-left: 660px;
+}
+.recept .Receptai {
+  margin-left: 30px;
+}
+.recept .Receptai .melyniu {
+  margin-top: 2px;
+}
